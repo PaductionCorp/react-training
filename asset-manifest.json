@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-training/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-training/static/js/main.cf1b7a34.chunk.js",
+    "main.js.map": "/react-training/static/js/main.cf1b7a34.chunk.js.map",
+    "runtime-main.js": "/react-training/static/js/runtime-main.c53f46ba.js",
+    "runtime-main.js.map": "/react-training/static/js/runtime-main.c53f46ba.js.map",
+    "static/js/2.1a95bf96.chunk.js": "/react-training/static/js/2.1a95bf96.chunk.js",
+    "static/js/2.1a95bf96.chunk.js.map": "/react-training/static/js/2.1a95bf96.chunk.js.map",
+    "static/js/3.d2b89fa6.chunk.js": "/react-training/static/js/3.d2b89fa6.chunk.js",
+    "static/js/3.d2b89fa6.chunk.js.map": "/react-training/static/js/3.d2b89fa6.chunk.js.map",
+    "index.html": "/react-training/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-training/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1a95bf96.chunk.js.LICENSE.txt": "/react-training/static/js/2.1a95bf96.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-training/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c53f46ba.js",
+    "static/js/2.1a95bf96.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.cf1b7a34.chunk.js"
+  ]
+}
