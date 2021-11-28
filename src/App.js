@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -15,9 +16,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          visite Paduction.com
+          Visite Paduction.com
         </a>
       </header>
+      <Footer />
     </div>
   );
 }
